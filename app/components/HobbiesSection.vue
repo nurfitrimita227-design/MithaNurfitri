@@ -13,7 +13,7 @@
       </div>
 
       <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
-        <!-- Hobi Utama: Menggambar (8 cols) -->
+        <!-- Hobi Utama: images (8 cols) -->
         <div class="lg:col-span-8 bg-gradient-to-br from-[#07172D] to-[#0B1930] border-2 border-[#2583FF]/40 rounded-3xl p-6 sm:p-8 shadow-2xl relative overflow-hidden flex flex-col justify-between">
           <div class="absolute -right-16 -top-16 w-64 h-64 bg-[#2583FF]/15 rounded-full blur-3xl pointer-events-none" />
 
@@ -29,7 +29,7 @@
             </div>
 
             <h3 class="text-2xl sm:text-3xl font-extrabold text-[#F3F7FF] mb-3">
-              Menggambar
+              images
             </h3>
 
             <p class="text-base text-[#A9B8D0] leading-relaxed mb-6">
