@@ -7,6 +7,13 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss'
   ],
 
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
+
   css: [
     '~/assets/css/main.css'
   ],
